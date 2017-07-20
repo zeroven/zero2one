@@ -1,1 +1,1 @@
-[links](https://jsfiddle.net/chrisvfritz/50wL7mdz/)
+[Vue demo in jsfiddle](https://jsfiddle.net/chrisvfritz/50wL7mdz/)
